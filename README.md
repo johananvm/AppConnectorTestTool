@@ -18,6 +18,9 @@ Has 3 options:
 - Upload an xml using a UpdateConnector
 - Getting a XSD scheme using a DataConnector
 
+For more information, see:
+https://kb.afas.nl/index.php#Connector
+
 
 ToDo
 -----------
