@@ -17,3 +17,13 @@ Has 3 options:
 - Getting data using a GetConnector
 - Upload an xml using a UpdateConnector
 - Getting a XSD scheme using a DataConnector
+
+For more information, see:
+https://kb.afas.nl/index.php#Connector
+
+
+ToDo
+-----------
+UI things:
+- change hiding/making visible from serverside to clientside with javascript (jQuery/Vue/?)
+- response from updateconnector is a plain XML-string without formatting
